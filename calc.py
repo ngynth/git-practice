@@ -1,1 +1,1 @@
-print("Calculator initial version")
+print("Result =", 10 + 20)
