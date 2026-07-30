@@ -1,1 +1,2 @@
-Option B: System uses Light mode
+Option C: System uses Adaptive mode
+
