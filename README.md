@@ -1,4 +1,5 @@
 # Git Practice Repository
 
-## How to Run
-Execute `python3 calc.py` in terminal.
+## Deliverables
+Give three PR to the file `calc.py`.
+Create & Resolve an intentional conflict on conflict.txt
